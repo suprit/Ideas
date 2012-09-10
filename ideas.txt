@@ -21,3 +21,6 @@ Ideas shortlisted..
 6. Login trigerring.
        Done by google, but suspended.
        To make it generalized, a service.
+
+7. Media cloud for desktops.
+       Saving state of same  media file  over a cloud, for accesibilty from diff stations.  
