@@ -1,0 +1,23 @@
+Ideas shortlisted..
+
+1. Drag and drop add publishing service .
+      (Reaserched about GoogleAdSense, this approach would be more fast, simple and transparent. Revenues will increase.
+
+2. Container-based virtualization.
+      ( IEEE paper)
+
+3. Smartphone Brain mapping.
+      Yobongo, a app based on the same concept.
+      This app will do tought matching as well.      
+
+4. Bluetooth hotspot.
+      Present technology only allows users to detect and conncect to internet with basic interface.
+      And only bluetooth messaging is allowed.Is not yet wery effective.
+      Has scope, use, would be effective.
+      Additional features : Connection transfering.     
+
+5. Link by narendra pal.
+
+6. Login trigerring.
+       Done by google, but suspended.
+       To make it generalized, a service.
