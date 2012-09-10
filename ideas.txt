@@ -16,7 +16,7 @@ Ideas shortlisted..
       Has scope, use, would be effective.
       Additional features : Connection transfering.     
 
-5. Link by narendra pal.
+5. Link by narendra pal.(Efficiency in virtualization)(cloud)
 
 6. Login trigerring.
        Done by google, but suspended.
