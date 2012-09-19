@@ -1,0 +1,20 @@
+ 
+<Description/>
+
+ You are not always sure, if a public computer has any keylogger installed, risks u from logging in on any website from it.
+ Building something which triggers ur account login on any public computer through your mobile.
+ 
+ 1.  Different procedures for Smartphones and normal phones.
+
+
+<Literature Survey/>
+ 
+ Google Seasame project. 
+ Suspended..!!
+
+ http://the-gadgeteer.com/2012/01/20/google-security-part-2-open-sesame-look-ma-no-hands-login/
+
+
+<Refference material/>
+
+  http://the-gadgeteer.com/2012/01/20/google-security-part-2-open-sesame-look-ma-no-hands-login/
